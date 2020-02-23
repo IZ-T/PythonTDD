@@ -195,10 +195,3 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/python,pycharm
-.idea/inspectionProfiles/*.xml
-.idea/*.iml
-.idea/*.xml
-venv/pyvenv.cfg
-venv/Scripts/*.py
-venv/Scripts/*.bat
-venv/Scripts/Activate*
